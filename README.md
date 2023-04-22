@@ -15,18 +15,23 @@
 		<li>Downloads :</li>
 		<p></p>
 		<ul>
-<li>Spring Tools 4 :  <a href="https://download.springsource.com/release/STS4/4.18.0.RELEASE/dist/e4.27/spring-tool-suite-4-4.18.0.RELEASE-e4.27.0-win32.win32.x86_64.self-extracting.jar">https://download.springsource.com/release/STS4/4.18.0.RELEASE/dist/e4.27/spring-tool-suite-4-4.18.0.RELEASE-e4.27.0-win32.win32.x86_64.self-extracting.jar</a></li>
-		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/231914836-73b91f2b-b889-4343-9455-dcba5216d3a9.png">
-		<li>Java 8:  <a href="https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247917_0ae14417abb444ebb02b9815e2103550">https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247917_0ae14417abb444ebb02b9815e2103550</a></li>
-		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/232153624-55499a6d-a80a-4304-be71-12879baaf86a.png">
+<li>Ngrok :  <a href="https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip">https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip</a></li>
+		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/233755072-fa41903e-7b8e-4d2a-9826-72addebdc725.png">
+		<li>MariaDB:  <a href="https://mirror.insacom.cl/mariadb/mariadb-10.11.2/winx64-packages/mariadb-10.11.2-winx64.msi">https://mirror.insacom.cl/mariadb/mariadb-10.11.2/winx64-packages/mariadb-10.11.2-winx64.msi</a></li>
+		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/233755279-9ee83804-26a6-46bc-964a-03420fec345d.png">
 		</ul>
 		<p></p>
 		<li>Important Information :</li>
 		<p></p>
 		<ul>
-		<li>Spring Cloud Eureka Server : <a href="https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html">https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html</a></li>
-		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/232151365-ec8c7818-8b98-4afb-8bff-387841241214.png">	
+		<li>Azure: <a href="https://azure.microsoft.com/es-es/">https://azure.microsoft.com/es-es/</a></li>
+		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/233755346-6eb8f794-02aa-4a4c-8fa4-7bc87a8a8e57.png">	
 		</ul>
 	</ul>
 </body>
 </html>
+
+
+
+
+
