@@ -17,7 +17,7 @@
 		<ul>
 <li>Ngrok :  <a href="https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip">https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip</a></li>
 		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/233755072-fa41903e-7b8e-4d2a-9826-72addebdc725.png">
-		<li>MariaDB:  <a href="https://mirror.insacom.cl/mariadb/mariadb-10.11.2/winx64-packages/mariadb-10.11.2-winx64.msi">https://mirror.insacom.cl/mariadb/mariadb-10.11.2/winx64-packages/mariadb-10.11.2-winx64.msi</a></li>
+		<li>MariaDB:  <a href="https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.4.4&os=windows&cpu=x86_64&pkg=msi&mirror=insacom">https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.4.4&os=windows&cpu=x86_64&pkg=msi&mirror=insacom</a></li>
 		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/233755279-9ee83804-26a6-46bc-964a-03420fec345d.png">
 		</ul>
 		<p></p>
