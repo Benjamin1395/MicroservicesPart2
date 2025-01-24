@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>Microservices Part 2</h1>
-	<p>Repository that contains all the information to deploy correctly the Second Microservices Laboratory and also the slides that we use on the laboratory</p>
-	<p>To execute everything correctly you just need to :</p>
+	<h1>Microservicios Part 2</h1>
+	<p>Repositorio que contiene toda la informacion para hacer deploy de la segunda parte del laboratorio</p>
+	<p>Para ejecutar correctamente solo necesitamos:</p>
 	<ul>
-		<li>Clone and download zip project.</li>
-		<li>Extract and open the project folder (First Microservice) with Spring Tools</li>
-		<li>Run the eureka project the Users microservices and the zull microservice as Spring Boot App</li>
-    <li>Now, you need to open your database session</li>
+		<li>Clonar y descargar el zip</li>
+		<li>Extraer el projecto y abrirlo con spring tools</li>
+		<li>Correr el programa</li>
+    <li>Abrir la sesion de la base de datos</li>
 	</ul>
-	<p>Some important links to deploy correctly the laboratory :</p>
+	<p>Links importantes para el desarrollo"</p>
 	<ul>
-		<li>Downloads :</li>
+		<li>Descargas :</li>
 		<p></p>
 		<ul>
 <li>Ngrok :  <a href="https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip">https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip</a></li>
@@ -20,12 +20,6 @@
 		<li>MariaDB:  <a href="https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.4.4&os=windows&cpu=x86_64&pkg=msi&mirror=insacom">https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.4.4&os=windows&cpu=x86_64&pkg=msi&mirror=insacom</a></li>
 		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/233755279-9ee83804-26a6-46bc-964a-03420fec345d.png">
 		</ul>
-		<p></p>
-		<li>Important Information :</li>
-		<p></p>
-		<ul>
-		<li>Azure: <a href="https://azure.microsoft.com/es-es/">https://azure.microsoft.com/es-es/</a></li>
-		<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/233755346-6eb8f794-02aa-4a4c-8fa4-7bc87a8a8e57.png">	
 		</ul>
 	</ul>
 </body>
